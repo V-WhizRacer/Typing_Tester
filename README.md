@@ -80,7 +80,7 @@ python your_script_name.py
 
 -----
 
-## Project Structure 📁
+## Project Structure
 
 The project is contained within a single Python file, demonstrating a clear and organized structure using a class-based approach for the Tkinter application.
 
